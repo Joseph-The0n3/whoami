@@ -9,9 +9,10 @@ MSc. Computer Science - Cyber Security
 
 
 ### Skills
-- Application Pentesting (Web, Mobile, API & AI Applications)
+- Application Pentesting (Web, Mobile & API)
 - Network Pentesting (Active Directory, Internal & External)
 - Cloud Pentesting (AWS & Azure)
+- AI Application Pentesting (Agentic AI, LLM Apps & MCPs)
 - Source Code Review
 
 
