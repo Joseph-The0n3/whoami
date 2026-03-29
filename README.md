@@ -7,14 +7,14 @@ Offensive Security professional with ~3 years of hands-on experience and a passi
 MSc. Computer Science - Cyber Security 
 
 ### Work Experience
-Security Consultant - Redfox Security (Sept 2024 — Present, Mumbai, India)
+**Security Consultant - Redfox Security** (Sept 2024 — Present, Mumbai, India)
 - Performed penetration testing of Web, Mobile, API, and LLM-based applications. 
 - Led Vulnerability Assessment & Compliance Audits (VACA) for internal and external networks. 
 - Executed Active Directory (Assumed Breach) and Azure Red Teaming engagements. 
 - Delivered cybersecurity training to 1000+ individuals through original courses: AI Pentesting Bootcamp, Hacking 101, Web Basics Bootcamp, and Linux Privilege Escalation. 
 - Created technical content for YouTube and blogs, focusing on modern pentesting methodologies and tools.
 
-Associate Security Consultant - Sequretek (July 2023 — Sept 2024, Mumbai, India)
+**Associate Security Consultant - Sequretek** (July 2023 — Sept 2024, Mumbai, India)
 - Conducted penetration testing of 200+ APIs, Web, and Mobile applications.
 - Executed internal and external network VACA assessments to identify security gaps.
 - Participated in high-profile Purple Teaming activities including the IDRBT Drill.
