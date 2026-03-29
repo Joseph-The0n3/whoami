@@ -3,8 +3,10 @@
 ### About Me
 Offensive Security professional with ~3 years of hands-on experience and a passion for breaking and securing modern applications and infrastructure. Skilled in Web, API, Mobile, and LLM application pentesting, with hands-on experience in Red teaming (assumed breach scenarios) and Azure cloud assessments. Recently diving deep into the world of AI security (LLM, MCP and Agentic AI systems) — exploring how AI can be both exploited and defended. Certified PNPT and CEH, and an active force in the community through CTFs, talks, and mentoring the next wave of ethical hackers.
 
+
 ### Education
 MSc. Computer Science - Cyber Security 
+
 
 ### Work Experience
 **Security Consultant - Redfox Security** (Sept 2024 — Present, Mumbai, India)
